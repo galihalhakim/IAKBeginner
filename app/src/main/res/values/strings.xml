@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JourneyJawaTimur</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+
+    <string name="jatim">Jawa Timur termasuk daerah paling padat di Pulau Jawa. Provinsi ini memiliki pesona wisata yang unik sehingga akan memikat Anda untuk mengunjunginya. Jawa Timur sangat kaya akan berbagai tempat alternatif liburan Anda. Daya tarik atau tujuan wisata yang ada di antaranya: wisata alam, wisata pantai, wisata gunung, wisata belanja, wisata pendidikan, wisata seni, wisata budaya, wisata bahari, wisata petualangan, wisata sejarah, wisata kerajinan, wisata lingkungan, wisata agro, wisata udara, wisata konvensi, wisata ziarah wali songo, dan juga wisata rohani.</string>
+    <string name="batu">Tidak seluruhnya daerah-daerah di Indonesia membuat kita berkeringat dan mengkerutkan dahi, suhu di Indonesia memang terkenal panas. Namun tahukah Anda beberapa daerah di Indonesia juga memiliki cuaca yang dingin dan sejuk. Salah satunya adalah Kota Batu Malang. Berada di ketinggian 680-1.200 meter di atas permukaan laut dengan suhu udara rata-rata 15-19 derajat Celsius menjadikan kota ini cenderung dingin dan sejuk. Kota ini berada di Provinsi Jawa Timur, Indonesia, terletak 15 km sebelah barat Kota Malang. Kota ini dikelilingi Gunung Panderman, Gunung Banyak, Gunung Welirang, Gunung Bokong dengan potensi daya tarik wisata yang beraneka ragam.</string>
+    <string name="ijen">Gunung Ijen adalah sebuah gunung berapiaktif yang terletak di perbatasan antara Kabupaten Banyuwangi dan Kabupaten Bondowoso, Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.443 mdpl dan terletak berdampingan dengan Gunung Merapi. Gunung Ijen terakhir meletus pada tahun 1999. Salah satu fenomena alam yang paling terkenal dari Gunung Ijen adalah kawah yang terletak di puncaknya.</string>
+    <string name="banyuwangi">Banyuwangi bukan sekadar tempat singgah antara hingar bingar wisata di Bali dan eksotisme budaya Yogyakarta. Banyuwangi memiliki apapun yang dibutuhkan para petualang yang haus regukan kemegahan alam Nusantara.  Dari sinilah Matahari bangkit di Timur Pulau Jawa lalu menyibak begitu banyak keindahan dan kealamian nan memukau. Banyuwangi juga menjadi rumah bagi suku Osing yang merupakan  sub-suku Jawa dengan bahasa jawa tertua dan telah melahirkan ragam seni dan budaya yang begitu memikat.</string>
+
+</resources>
